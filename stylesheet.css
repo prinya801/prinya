@@ -1,5 +1,11 @@
-*テーブル*/
-/*パターン１(アイテム表示)*/
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Inconsolata !important;
+}
+
+
 table#table1 {
   width: 90%;
   min-width: 640px;
